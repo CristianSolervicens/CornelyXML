@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CornelyXML", "CornelyXML\CornelyXML.csproj", "{04BD0DDF-A7D1-4429-B405-D7CC1CDC1B74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{9C97968D-F064-4ABF-B54F-4D7EC5FF7ED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04BD0DDF-A7D1-4429-B405-D7CC1CDC1B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04BD0DDF-A7D1-4429-B405-D7CC1CDC1B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04BD0DDF-A7D1-4429-B405-D7CC1CDC1B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04BD0DDF-A7D1-4429-B405-D7CC1CDC1B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C97968D-F064-4ABF-B54F-4D7EC5FF7ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C97968D-F064-4ABF-B54F-4D7EC5FF7ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C97968D-F064-4ABF-B54F-4D7EC5FF7ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C97968D-F064-4ABF-B54F-4D7EC5FF7ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B2A2C33-93C5-402E-B5BB-503DE45ACF6A}
+	EndGlobalSection
+EndGlobal
